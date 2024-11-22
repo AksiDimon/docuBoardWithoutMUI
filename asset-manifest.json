@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/docuBoardWithoutMUI/static/css/main.bafd3848.css",
+    "main.js": "/docuBoardWithoutMUI/static/js/main.c0df84d1.js",
+    "index.html": "/docuBoardWithoutMUI/index.html",
+    "main.bafd3848.css.map": "/docuBoardWithoutMUI/static/css/main.bafd3848.css.map",
+    "main.c0df84d1.js.map": "/docuBoardWithoutMUI/static/js/main.c0df84d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafd3848.css",
+    "static/js/main.c0df84d1.js"
+  ]
+}
